@@ -6,6 +6,7 @@
 
 #### 개발 환경
 
-- React
 - TypeScript
+- React
 - Redux
+
