@@ -1,12 +1,10 @@
 import React from 'react';
 import Page from './Page';
 
-const App: React.FC = () => {
-  return (
-    <div className="App">
-      <Page/>
-    </div>
-  );
-}
+const App: React.FC = () => (
+  <div className="App">
+    <Page />
+  </div>
+);
 
 export default App;
