@@ -5,7 +5,10 @@ const Home: React.FC = () => (
   <div>
     <Grid container>
       <Grid item xs={12} sm={6}>
-        안녕
+        test
+      </Grid>
+      <Grid item xs={12} sm={6}>
+        test
       </Grid>
     </Grid>
   </div>
